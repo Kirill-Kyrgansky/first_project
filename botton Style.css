@@ -1,8 +1,8 @@
 .MuiButtonBase-root{
     color:#ffffff;
     padding:11px 16px;
-    border-radius: 8px;
-    background-color: #283d50;
+    border-radius: 10px;
+    background-color: #000000;
     -webkit-transition: background-color 200ms ease;
     transition: background-color 200ms ease;
     line-height: 18px;
